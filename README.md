@@ -1,3 +1,4 @@
+![logo](https://github.com/Prashant-Sagar-06/Prashant-Sagar-06/blob/main/Prashant%20Sagar.png)
 <h1 align="center">Hi 👋, I'm Prashant Sagar</h1>
 <h3 align="center">"Innovate. Transform. Thrive."</h3>
 <img align="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
